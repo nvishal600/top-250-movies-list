@@ -119,3 +119,22 @@ color: white;
 
 
 
+
+
+
+@media(max-width:600px)
+{
+    .card{
+        flex-direction: column;
+        position: absolute;
+    }
+    .number{
+        position: absolute;
+        left: 10px;
+        top: 10px;
+    }
+}
+
+
+
+
